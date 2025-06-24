@@ -1,5 +1,8 @@
 # React + Vite
+#PlantShop Website
+![plantshop website snap](https://github.com/user-attachments/assets/dae14e44-beb0-4323-bfa0-3f9e8332e4b2)
 #https://plant-shop-virid.vercel.app
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
