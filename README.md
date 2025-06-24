@@ -4,12 +4,14 @@ PlantShop is a modern e-commerce website built with React.js + Vite, featuring a
 # React website
 
 🚀 Live Demo
-  #https://plant-shop-virid.vercel.app
+
+#https://plant-shop-virid.vercel.app
 #PlantShop Website
 ![plantshop website snap](https://github.com/user-attachments/assets/dae14e44-beb0-4323-bfa0-3f9e8332e4b2)
                    
 
 ✨ Key Features
+
 ✔ User Authentication
 Sign up & Login with email verification (using Email.js)
 Protected routes for logged-in users
@@ -39,7 +41,7 @@ State Management: Redux Toolkit
 Routing: React Router DOM
 Email Integration: Email.js (for user signup/login)
 
-✔ Deployment: Vercel : #https://plant-shop-virid.vercel.app
+✔ Deployment: Vercel: #https://plant-shop-virid.vercel.app
 
 
 
